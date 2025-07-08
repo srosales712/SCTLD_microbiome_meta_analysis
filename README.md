@@ -3,7 +3,7 @@
 This repository contains the data and code for the meta-analysis conducted in:
 
 > **“A meta‑analysis of the stony coral tissue loss disease microbiome finds key bacteria in unaffected and lesion tissue in diseased colonies”**  
-> S. M. Rosales et al. (2025), *ISME Communications* :contentReference[oaicite:1]{index=1}
+> S. M. Rosales et al. (2025), *ISME Communications* :contentReference[https://doi.org/10.1038/s43705-023-00220-0]
 
 ---
 
