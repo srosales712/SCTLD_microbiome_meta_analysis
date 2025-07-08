@@ -13,12 +13,11 @@ This repository contains the data and code for the meta-analysis conducted in:
 - Examined 17 studies (16 SCTLD + 1 Rapid Tissue Loss)  
 - Compared microbiomes in:
   - Apparently Healthy (AH) corals across different disease zones (vulnerable, endemic, epidemic)
-  - Diseased coral tissue – Distal (DU) vs. Lesion-proximal (DL)
+  - Diseased coral tissue – Diseased Unaffected (DU) vs. Disease Lesion (DL)
 - 🧬 Key findings:
   - AH corals in endemic/epidemic zones had bacterial changes that might indicate compromised health or resistance  
   - DU samples: dominated by **Flavobacteriales** and **Synechococcales**  
-  - DL samples: enriched in **Rhodobacterales** and **Peptostreptococcales–Tissierellales**, with the latter potentially involved in tissue loss via phospholipase C/α-toxin pathways :contentReference[oaicite:2]{index=2}
-
+  - DL samples: enriched in **Rhodobacterales** and **Peptostreptococcales–Tissierellales**, with the latter potentially involved in tissue loss via phospholipase C/α-toxin pathways.
 ---
 
 ## 📁 Repository Structure
@@ -29,8 +28,6 @@ This repository contains the data and code for the meta-analysis conducted in:
 - **`Notebooks/`**  
   - Jupyter notebooks (R/Python) for data cleaning, processing, and meta-analysis workflows.
 
-- **`Figures/`** *(optional)*  
-  - Pre-generated visualizations used in the manuscript (e.g., taxonomic barplots, differential abundance plots).
 
 ---
 
