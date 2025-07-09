@@ -28,10 +28,12 @@ This repository contains the data and code for the meta-analysis conducted in:
 - **`Notebooks/`**  
   - Jupyter notebooks (R/Python) for data cleaning, processing, and meta-analysis workflows.
 
+- **`DADA2_output`**
+  -   Notebooks of Qiime2 analysis of each study and then merged.
 
 ---
 
-## 🛠️ Reproducing the Analysis
+- **`## 🛠️ Reproducing the Analysis
 
 1. **Clone the repo**  
    ```bash
